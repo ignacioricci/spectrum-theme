@@ -1,0 +1,66 @@
+SPECTRUM THEME README
+
+About the theme:
+---------------------------------------------------------------------------------------
+
+- Designed and developed by Ignacio Ricci (www.ignacioricci.com)
+- Theme URL: http://spectrum-theme.com
+- Theme Download: http://spectrum-theme.com/download/spectrum-theme-package.zip
+- Crossbrowser (IE6, IE7, IE8, Opera, Safari, Firefox)
+- 100% semantic code. All non-semantic design elements are added via Javascript.
+- Uses primarily the Cambria font (Windows Vista, Office 2007, Office for Max 2008)
+- Widget Ready
+
+
+License:
+---------------------------------------------------------------------------------------
+
+The theme is totally free. However, you must leave the Design and Development credits 
+to me (Ignacio Ricci) in the blog that is using the theme.
+
+Logo:
+---------------------------------------------------------------------------------------
+
+In the folder you just downloaded, you will find an image called: logo-template.png
+The purpose of this image, is for you to insert your logo there, and then upload
+the modified version to the theme folder (images/logo.png)
+
+This will allow you to have a nice logo with a seamless background.
+If you prefer, just use a transparent PNG as a logo, but be aware that it won't look
+good on IE6.
+
+
+Custom Field:
+---------------------------------------------------------------------------------------
+
+Spectrum uses one custom field. It's optional, and it's purpose is to include the
+post image. I recommend to use it, because it makes the design even nicer.
+
+The custom field name to use is: postImage
+
+The value will be the URL of the image. Example: http://www.website.com/image.gif
+The maximum width for this image is 600 px.
+
+Comment Replies:
+---------------------------------------------------------------------------------------
+
+Spectrum can handle comment replies up to 3 levels (depth=3).
+
+
+Recent Comments Plugin:
+---------------------------------------------------------------------------------------
+
+Spectrum requires the recent comments plugin (included)
+
+In order to correctly show the Spectrum Theme comments, you should install the plugin
+provided, and set the comment code in the WP-Admin page (Settings > Recent Comments) to 
+the following:
+
+<li><a href="%comment_link" title="%post_title, %post_date"><span>%comment_author</span> <em>on "%post_title"</em></a></li>
+
+
+
+Thank you for downloading Spectrum, I hope you enjoy it!
+
+Sincerely,
+Ignacio
